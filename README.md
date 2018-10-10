@@ -1,3 +1,10 @@
+# Andrew = 1800126
+# Danilo = 1800175
+# Eduardo = 1800762
+
+
+
+
 # Exercício de JavaScript
 
 Para treinar o JavaScript de vocês, vamos desenvolver uma calculadora em JavaScript.
